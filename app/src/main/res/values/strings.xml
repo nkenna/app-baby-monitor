@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Baby Monitor</string>
+
+    <string name="temp">Temp:</string>
+</resources>
